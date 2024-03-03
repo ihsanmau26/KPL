@@ -7,3 +7,4 @@ D:\MOD_3\MOD_3\obj\Debug\MOD_3.csproj.GenerateResource.cache
 D:\MOD_3\MOD_3\obj\Debug\MOD_3.csproj.CoreCompileInputs.cache
 D:\MOD_3\MOD_3\obj\Debug\MOD_3.exe
 D:\MOD_3\MOD_3\obj\Debug\MOD_3.pdb
+D:\MOD_3\MOD_3\obj\Debug\MOD_3.Form1.resources
